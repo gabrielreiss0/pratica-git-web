@@ -1,0 +1,1 @@
+console.log('projeto carregado com sucesso!!!');
